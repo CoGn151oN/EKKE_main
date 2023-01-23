@@ -1,5 +1,5 @@
 # EKKE_main
-EKKE school notes oragnized:
+EKKE organized school notes:
 <ul>
   <li>seminars</li>
   <li>practice</li>
