@@ -1,4 +1,4 @@
-# EKKE_main
+# EKKE Notes Website
 EKKE organized school notes:
 <ul>
   <li>seminars</li>
